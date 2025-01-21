@@ -11,8 +11,6 @@ Review instagram security patters
 
 ATTENTION: These demonstration pages are designed strictly for security research and educational purposes only. They simulate phishing techniques and collect credentials via Discord webhook for research demonstration. Any use of these pages for malicious purposes or actual credential harvesting is strictly prohibited and illegal. By accessing these pages, you acknowledge that you are a security researcher or penetration tester conducting authorized testing.
 
-
-
 ## 🛡️ AUTHORIZED PERSONNEL ONLY 
 
 By accessing these pages, you confirm you are:
@@ -31,7 +29,7 @@ By accessing these pages, you confirm you are:
 ## 🚀 Live Demo
   
    <!-- YouTube Link -->
-  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/gdtuNCFRrbU?si=3A_xDC8e9ZzThpe-)
+    [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/u9AZ6sPliRg?si=SlpXGI5iFy79UqYm)
 
 ##  Access Page 🔥 
 
