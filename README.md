@@ -4,8 +4,6 @@
   <img src="https://i.imgur.com/NbF7UtA.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
 </div>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=cyberkalki.vpn-detection" alt="visitors">
-
 ### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
 Review instagram security patters
 
