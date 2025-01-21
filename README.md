@@ -28,8 +28,7 @@ By accessing these pages, you confirm you are:
 
 ## 🚀 Live Demo
   
-   <!-- YouTube Link -->
-    [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/u9AZ6sPliRg?si=SlpXGI5iFy79UqYm)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/u9AZ6sPliRg?si=SlpXGI5iFy79UqYm)
 
 ##  Access Page 🔥 
 
