@@ -30,10 +30,6 @@ By accessing these pages, you confirm you are:
   
 [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/u9AZ6sPliRg?si=SlpXGI5iFy79UqYm)
 
-##  Access Page 🔥 
-
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/instagramob.html)
-
 
 ### 🌐 Connect With Me to get obfuscated code with functionality to add your webhook (STRICTLY FOR POC).
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
